@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/adityasengarr01/DSA/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/adityasengarr01/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adityasengarr01/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/adityasengarr01/DSA/tree/master/0389-find-the-difference) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/adityasengarr01/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/adityasengarr01/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/adityasengarr01/DSA/tree/master/0771-jewels-and-stones) |
