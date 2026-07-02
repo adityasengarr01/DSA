@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,12 +30,14 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/adityasengarr01/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/adityasengarr01/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/adityasengarr01/DSA/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/adityasengarr01/DSA/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
