@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/adityasengarr01/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
