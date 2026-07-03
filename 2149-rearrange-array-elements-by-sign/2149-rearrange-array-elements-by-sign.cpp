@@ -1,36 +1,27 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-       vector<int> m;
-       vector<int> t;
 
-       for(int i=0;i<nums.size();i++){
+        vector<int> nunu(nums.size());
 
-        if(nums[i] >=0 ){
-            m.push_back(nums[i]);
+        int p = 0;
+        int n = 1;
+
+        for(int i=0;i<nums.size();i++){
+            if(nums[i] >=0){
+                nunu[p] = nums[i];
+                p +=2;
+
+            }
+            else{
+            nunu[n] = nums[i];
+            n +=2;
+            }
+
         }
-        else{
-            t.push_back(nums[i]);
-        }
-       }
-       vector<int> z;
-      
+        return nunu;
 
-        int p=0;
-        int q = 0;
-        for(int j=0;j<m.size();j++){
 
-            z.push_back(m[p]);
-            p++;
-
-            z.push_back(t[q]);
-            q++;
-        }
-       return z;
-
-        
-
-       
         
     }
 };
