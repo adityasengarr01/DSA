@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityasengarr01/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adityasengarr01/DSA/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/adityasengarr01/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityasengarr01/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/adityasengarr01/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -45,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/adityasengarr01/DSA/tree/master/0389-find-the-difference) |
