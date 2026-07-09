@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/adityasengarr01/DSA/tree/master/0228-summary-ranges) |
+| [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -80,5 +81,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/adityasengarr01/DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
