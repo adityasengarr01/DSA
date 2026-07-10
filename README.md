@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityasengarr01/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/adityasengarr01/DSA/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/adityasengarr01/DSA/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/adityasengarr01/DSA/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/adityasengarr01/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
