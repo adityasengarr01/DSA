@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/adityasengarr01/DSA/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/adityasengarr01/DSA/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
@@ -85,4 +86,8 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/adityasengarr01/DSA/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
