@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/adityasengarr01/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityasengarr01/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/adityasengarr01/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/adityasengarr01/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/adityasengarr01/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
