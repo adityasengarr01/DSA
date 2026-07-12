@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/adityasengarr01/DSA/tree/master/0228-summary-ranges) |
 | [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
+| [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/adityasengarr01/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/adityasengarr01/DSA/tree/master/0771-jewels-and-stones) |
+| [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/adityasengarr01/DSA/tree/master/0389-find-the-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
