@@ -105,4 +105,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adityasengarr01/DSA/tree/master/0073-set-matrix-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/adityasengarr01/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
