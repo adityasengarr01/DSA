@@ -99,6 +99,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adityasengarr01/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
 |  |
 | ------- |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/adityasengarr01/DSA/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adityasengarr01/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
