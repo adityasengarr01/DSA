@@ -48,6 +48,7 @@
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/adityasengarr01/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/adityasengarr01/DSA/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/adityasengarr01/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasengarr01/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/adityasengarr01/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
