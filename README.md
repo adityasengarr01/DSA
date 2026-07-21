@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityasengarr01/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/adityasengarr01/DSA/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/adityasengarr01/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adityasengarr01/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
@@ -29,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/adityasengarr01/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adityasengarr01/DSA/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/adityasengarr01/DSA/tree/master/0344-reverse-string) |
@@ -70,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/adityasengarr01/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
