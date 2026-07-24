@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/adityasengarr01/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/adityasengarr01/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adityasengarr01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0018-4sum](https://github.com/adityasengarr01/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/adityasengarr01/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasengarr01/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/adityasengarr01/DSA/tree/master/0389-find-the-difference) |
