@@ -23,6 +23,7 @@
 | [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityasengarr01/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/adityasengarr01/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityasengarr01/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityasengarr01/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
