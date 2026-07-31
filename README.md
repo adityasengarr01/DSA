@@ -59,6 +59,7 @@
 | [0796-rotate-string](https://github.com/adityasengarr01/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasengarr01/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/adityasengarr01/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityasengarr01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityasengarr01/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityasengarr01/DSA/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/adityasengarr01/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/adityasengarr01/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
