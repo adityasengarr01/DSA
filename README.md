@@ -23,6 +23,7 @@
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityasengarr01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityasengarr01/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasengarr01/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityasengarr01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityasengarr01/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -207,4 +210,16 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
