@@ -141,6 +141,7 @@
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasengarr01/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityasengarr01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adityasengarr01/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityasengarr01/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityasengarr01/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/adityasengarr01/DSA/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adityasengarr01/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
