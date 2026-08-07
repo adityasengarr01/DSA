@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/adityasengarr01/DSA/tree/master/0228-summary-ranges) |
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
+| [0566-reshape-the-matrix](https://github.com/adityasengarr01/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityasengarr01/DSA/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/adityasengarr01/DSA/tree/master/0566-reshape-the-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityasengarr01/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -154,6 +156,7 @@
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityasengarr01/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityasengarr01/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/adityasengarr01/DSA/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adityasengarr01/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/adityasengarr01/DSA/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
