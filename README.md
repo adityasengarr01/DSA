@@ -25,6 +25,7 @@
 | [0566-reshape-the-matrix](https://github.com/adityasengarr01/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/adityasengarr01/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasengarr01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/adityasengarr01/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Trie
 |  |
 | ------- |
