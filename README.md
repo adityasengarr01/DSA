@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/adityasengarr01/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/adityasengarr01/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adityasengarr01/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityasengarr01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/adityasengarr01/DSA/tree/master/0054-spiral-matrix) |
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityasengarr01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityasengarr01/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
