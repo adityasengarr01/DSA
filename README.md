@@ -42,6 +42,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityasengarr01/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityasengarr01/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityasengarr01/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/adityasengarr01/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,4 +284,8 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/adityasengarr01/DSA/tree/master/0503-next-greater-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/adityasengarr01/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
