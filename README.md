@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/adityasengarr01/DSA/tree/master/0228-summary-ranges) |
+| [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/adityasengarr01/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/adityasengarr01/DSA/tree/master/0506-relative-ranks) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/adityasengarr01/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
@@ -314,9 +316,15 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/adityasengarr01/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/adityasengarr01/DSA/tree/master/0518-coin-change-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
