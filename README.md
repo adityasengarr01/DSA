@@ -53,6 +53,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/adityasengarr01/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/adityasengarr01/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 ## Two Pointers
@@ -190,6 +191,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/adityasengarr01/DSA/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/adityasengarr01/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/adityasengarr01/DSA/tree/master/0836-rectangle-overlap) |
@@ -299,6 +301,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/adityasengarr01/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adityasengarr01/DSA/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/adityasengarr01/DSA/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -329,4 +332,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityasengarr01/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
