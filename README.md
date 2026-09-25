@@ -33,6 +33,7 @@
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/adityasengarr01/DSA/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasengarr01/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/adityasengarr01/DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/adityasengarr01/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityasengarr01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -136,6 +137,7 @@
 | [0506-relative-ranks](https://github.com/adityasengarr01/DSA/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasengarr01/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/adityasengarr01/DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/adityasengarr01/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityasengarr01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -258,6 +260,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/adityasengarr01/DSA/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityasengarr01/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -339,4 +342,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityasengarr01/DSA/tree/master/0509-fibonacci-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/adityasengarr01/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
