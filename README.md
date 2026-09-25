@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityasengarr01/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adityasengarr01/DSA/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/adityasengarr01/DSA/tree/master/0205-isomorphic-strings) |
@@ -226,6 +227,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/adityasengarr01/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityasengarr01/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -317,6 +319,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
 |  |
