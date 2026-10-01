@@ -30,6 +30,7 @@
 | [0566-reshape-the-matrix](https://github.com/adityasengarr01/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/adityasengarr01/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityasengarr01/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/adityasengarr01/DSA/tree/master/0896-monotonic-array) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/adityasengarr01/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityasengarr01/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
