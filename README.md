@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
@@ -85,6 +86,7 @@
 | [0020-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasengarr01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adityasengarr01/DSA/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/adityasengarr01/DSA/tree/master/0205-isomorphic-strings) |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/adityasengarr01/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityasengarr01/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -338,6 +341,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityasengarr01/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
