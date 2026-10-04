@@ -61,6 +61,7 @@
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/adityasengarr01/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/adityasengarr01/DSA/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/adityasengarr01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/adityasengarr01/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/adityasengarr01/DSA/tree/master/0556-next-greater-element-iii) |
+| [0678-valid-parenthesis-string](https://github.com/adityasengarr01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityasengarr01/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/adityasengarr01/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/adityasengarr01/DSA/tree/master/0796-rotate-string) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/adityasengarr01/DSA/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/adityasengarr01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityasengarr01/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1383-maximum-performance-of-a-team](https://github.com/adityasengarr01/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasengarr01/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -245,6 +248,7 @@
 | [0020-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/adityasengarr01/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/adityasengarr01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityasengarr01/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityasengarr01/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -342,6 +346,7 @@
 | [0020-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/adityasengarr01/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityasengarr01/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityasengarr01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
