@@ -70,6 +70,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasengarr01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/adityasengarr01/DSA/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/adityasengarr01/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/adityasengarr01/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityasengarr01/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
@@ -125,6 +126,7 @@
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/adityasengarr01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasengarr01/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/adityasengarr01/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/adityasengarr01/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adityasengarr01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -211,6 +213,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/adityasengarr01/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/adityasengarr01/DSA/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/adityasengarr01/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -391,4 +394,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasengarr01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/adityasengarr01/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
