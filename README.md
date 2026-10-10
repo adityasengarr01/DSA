@@ -47,6 +47,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityasengarr01/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adityasengarr01/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityasengarr01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityasengarr01/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityasengarr01/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityasengarr01/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -162,6 +163,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityasengarr01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityasengarr01/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adityasengarr01/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityasengarr01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasengarr01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityasengarr01/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityasengarr01/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -195,6 +197,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityasengarr01/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityasengarr01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
@@ -210,6 +213,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityasengarr01/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasengarr01/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityasengarr01/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityasengarr01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/adityasengarr01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityasengarr01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasengarr01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -279,6 +283,7 @@
 | [0506-relative-ranks](https://github.com/adityasengarr01/DSA/tree/master/0506-relative-ranks) |
 | [1383-maximum-performance-of-a-team](https://github.com/adityasengarr01/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityasengarr01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityasengarr01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
