@@ -223,6 +223,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityasengarr01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityasengarr01/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasengarr01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityasengarr01/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityasengarr01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -240,6 +241,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityasengarr01/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityasengarr01/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityasengarr01/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityasengarr01/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Union-Find
 |  |
 | ------- |
