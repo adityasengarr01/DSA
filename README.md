@@ -52,6 +52,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityasengarr01/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityasengarr01/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityasengarr01/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityasengarr01/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityasengarr01/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityasengarr01/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityasengarr01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -150,6 +151,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityasengarr01/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasengarr01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityasengarr01/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityasengarr01/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityasengarr01/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -175,6 +177,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasengarr01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityasengarr01/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityasengarr01/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityasengarr01/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityasengarr01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
