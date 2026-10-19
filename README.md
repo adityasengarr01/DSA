@@ -46,6 +46,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/adityasengarr01/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/adityasengarr01/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/adityasengarr01/DSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityasengarr01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityasengarr01/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adityasengarr01/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityasengarr01/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -173,6 +174,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/adityasengarr01/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityasengarr01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityasengarr01/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityasengarr01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adityasengarr01/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityasengarr01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasengarr01/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -212,6 +214,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityasengarr01/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityasengarr01/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityasengarr01/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
