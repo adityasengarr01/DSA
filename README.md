@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/adityasengarr01/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adityasengarr01/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityasengarr01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/adityasengarr01/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adityasengarr01/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/adityasengarr01/DSA/tree/master/0054-spiral-matrix) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityasengarr01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/adityasengarr01/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/adityasengarr01/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasengarr01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
