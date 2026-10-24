@@ -6,9 +6,10 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+right(right) {}
  * };
- */
+
 class Solution {
 public:
 
@@ -26,6 +27,38 @@ void solve(TreeNode* root , vector<int> &ans){
         solve(root , ans);
         return ans;
 
-        
+
+    }
+};
+*/
+
+// USING ITERATIVE APPROACH -> STACK:
+
+class Solution {
+public:
+    vector<int> preorderTraversal(TreeNode* root) {
+
+
+        vector<int> p;
+                if(root == NULL) return p;
+
+
+        stack<TreeNode*> s;
+
+        s.push(root);
+
+        while (!s.empty()) {
+
+            TreeNode* Node = s.top();
+            s.pop();
+
+            p.push_back(Node -> val);
+
+            if (Node->right != NULL)
+                s.push(Node -> right);
+            if (Node->left != NULL)
+                s.push(Node -> left);
+        }
+        return p;
     }
 };
