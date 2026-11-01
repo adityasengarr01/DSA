@@ -26,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/adityasengarr01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/adityasengarr01/DSA/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityasengarr01/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/adityasengarr01/DSA/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/adityasengarr01/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/adityasengarr01/DSA/tree/master/0506-relative-ranks) |
@@ -247,6 +248,7 @@
 | [0048-rotate-image](https://github.com/adityasengarr01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/adityasengarr01/DSA/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityasengarr01/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/adityasengarr01/DSA/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/adityasengarr01/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
