@@ -426,6 +426,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/adityasengarr01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/adityasengarr01/DSA/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -476,6 +477,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/adityasengarr01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -489,6 +491,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/adityasengarr01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -504,6 +507,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/adityasengarr01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
