@@ -66,6 +66,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasengarr01/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasengarr01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasengarr01/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/adityasengarr01/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasengarr01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/adityasengarr01/DSA/tree/master/0031-next-permutation) |
@@ -97,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasengarr01/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/adityasengarr01/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityasengarr01/DSA/tree/master/0022-generate-parentheses) |
@@ -528,4 +531,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityasengarr01/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasengarr01/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
