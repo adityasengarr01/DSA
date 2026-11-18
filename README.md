@@ -114,6 +114,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/adityasengarr01/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/adityasengarr01/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/adityasengarr01/DSA/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/adityasengarr01/DSA/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/adityasengarr01/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/adityasengarr01/DSA/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/adityasengarr01/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityasengarr01/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/adityasengarr01/DSA/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/adityasengarr01/DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/adityasengarr01/DSA/tree/master/0566-reshape-the-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/adityasengarr01/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityasengarr01/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -259,6 +261,7 @@
 | [0066-plus-one](https://github.com/adityasengarr01/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/adityasengarr01/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/adityasengarr01/DSA/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/adityasengarr01/DSA/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityasengarr01/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/adityasengarr01/DSA/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/adityasengarr01/DSA/tree/master/0556-next-greater-element-iii) |
