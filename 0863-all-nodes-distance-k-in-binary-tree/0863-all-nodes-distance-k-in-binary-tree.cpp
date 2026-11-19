@@ -1,6 +1,8 @@
 
 class Solution {
-    void markParents(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parent_track, TreeNode* target) {
+    void markParents(TreeNode* root,
+                     unordered_map<TreeNode*, TreeNode*>& parent_track,
+                     TreeNode* target) {
         queue<TreeNode*> queue;
         queue.push(root);
 
@@ -35,7 +37,8 @@ public:
         while (!queue.empty()) {
             int size = queue.size();
 
-            if (curr_level++ == k) break;
+            if (curr_level++ == k)
+                break;
 
             for (int i = 0; i < size; i++) {
                 TreeNode* current = queue.front();
