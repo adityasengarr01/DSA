@@ -38,6 +38,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityasengarr01/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/adityasengarr01/DSA/tree/master/0896-monotonic-array) |
+| [0908-smallest-range-i](https://github.com/adityasengarr01/DSA/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityasengarr01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/adityasengarr01/DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/adityasengarr01/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -268,6 +269,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasengarr01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/adityasengarr01/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/adityasengarr01/DSA/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/adityasengarr01/DSA/tree/master/0908-smallest-range-i) |
 | [1688-count-of-matches-in-tournament](https://github.com/adityasengarr01/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/adityasengarr01/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/adityasengarr01/DSA/tree/master/2235-add-two-integers) |
