@@ -47,6 +47,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/adityasengarr01/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityasengarr01/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityasengarr01/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1534-count-good-triplets](https://github.com/adityasengarr01/DSA/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/adityasengarr01/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/adityasengarr01/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/adityasengarr01/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/adityasengarr01/DSA/tree/master/1291-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/adityasengarr01/DSA/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityasengarr01/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
